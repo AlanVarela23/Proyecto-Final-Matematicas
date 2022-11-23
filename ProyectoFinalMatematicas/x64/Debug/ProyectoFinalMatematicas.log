@@ -1,0 +1,3 @@
+﻿  ProyectoFinalMatematicas.cpp
+C:\Users\alanv\Documents\School\Amerike\1 Semestre\Introduccion a la programacion\Practicas Parcial 3\ProyectoFinalMatematicas\ProyectoFinalMatematicas.cpp(55,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ProyectoFinalMatematicas.vcxproj -> C:\Users\alanv\Documents\School\Amerike\1 Semestre\Introduccion a la programacion\Practicas Parcial 3\ProyectoFinalMatematicas\x64\Debug\ProyectoFinalMatematicas.exe
